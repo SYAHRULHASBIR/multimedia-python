@@ -33,9 +33,8 @@ Berikut adalah beberapa pustaka yang sering digunakan dalam pemrograman multimed
 Untuk menginstal pustaka-pustaka tersebut, kita dapat menggunakan `pip`. Berikut adalah contoh cara instalasi masing-masing pustaka:
 
 ```bash
-pip(windows)/pip3(linux) install pygame pillow opencv-python moviepy pydub
 ```
-
+pip(windows)/pip3(linux) install pygame pillow opencv-python moviepy pydub
 ```python
 # Contoh kode instalasi dan setup
 import pygame
